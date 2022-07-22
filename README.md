@@ -26,6 +26,7 @@ Server Infomations | Horror SMP
 
 ## 🟢 System Information - CPU/RAM 🏡
 ```
+🧪 Sponser :: PPEKKUNGZ CHANNEL >///<
 🌐 CPU : AMD Ryzen 5 3500X 6-Core Processor. ( Custom Server )
 🌐 RAM : DDR4 16GB
 🌐 M.2 : HDD 60GB
