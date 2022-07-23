@@ -15,7 +15,7 @@
 </div>
 <h2 align="center">
 <img src="https://cdn.discordapp.com/emojis/551174760227274752.webp?size=44&quality=lossless" width="30">
-Server Infomations | Horror SMP
+Server Infomations | Pixelmon SMP
 <img src="https://cdn.discordapp.com/emojis/955400481868488734.gif?size=44&quality=lossless" width="30"></h2>
 
 
@@ -27,8 +27,8 @@ Server Infomations | Horror SMP
 ## 🟢 System Information - CPU/RAM 🏡
 ```
 🧪 Sponser :: PPEKKUNGZ CHANNEL >///<
-🌐 CPU : AMD Ryzen 5 3500X 6-Core Processor. ( Custom Server )
-🌐 RAM : DDR4 16GB
+🌐 CPU : AMD Ryzen 5 3500X 6-Core Processor. ( Server 3-Core )
+🌐 RAM : DDR4 16GB ( Server Ram 3 GB)
 🌐 DISK : HDD 60GB
 🌐 OS  : Linux CentOS 7 (amd64) version "3.10.0-1160.el7.x86_64"
 ```
