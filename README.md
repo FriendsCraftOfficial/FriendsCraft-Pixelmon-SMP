@@ -1,6 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=pppekkungz&plastic&color=00E8FF)
 
-<h1 align="center">🗂💡 FRIENDSCRAFT PIXELMON SMP!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">💡 FRIENDSCRAFT PIXELMON SMP!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 <p align="center">
     <a href="https://discord.gg/9HFENuTPnm"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord server"/></a>
