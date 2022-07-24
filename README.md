@@ -22,7 +22,7 @@ Server Infomations | Pixelmon SMP
 * Minecraft Version : 1.12.2
 * Border : No Border
 * Server : Forge
-* Seed : 1.12.2 : 3792539041448028046
+* Seed : 1.12.2 : 3792539041448******
 
 ## 🟢 System Information - CPU/RAM 🏡
 ```
