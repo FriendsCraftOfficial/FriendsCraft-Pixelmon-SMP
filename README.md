@@ -35,7 +35,7 @@ Server Infomations | Pixelmon SMP
 - REALM.IN.TH | PANEL SERVER BY @iTORz
 ```
 🌐 CPU : Intel(R) Xeon(R) CPU E5-2690 v2 @ 3.00GHz
-🌐 RAM : DDR3 16GB
+🌐 RAM : DDR3 8GB
 🌐 M.2 : SSD 52GB
 🌐 OS  : Linux (amd64) version "5.14.0-70.13.1.el9_0.x86_64" / IBM Corporation
 ```
